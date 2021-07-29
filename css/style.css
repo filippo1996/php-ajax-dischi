@@ -7,3 +7,7 @@
 body{
     background: #000;
 }
+
+[v-cloak]{
+    display: none !important;
+}

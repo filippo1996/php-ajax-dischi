@@ -1,6 +1,6 @@
 <?php
 
-$db = [
+$discs = [
     [
         'title' => 'New Jersey',
         'author' => 'Bon Jovi',
